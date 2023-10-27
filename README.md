@@ -6,3 +6,4 @@
 
  print = 80 
 
+do site direto
